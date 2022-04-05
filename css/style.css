@@ -1,0 +1,18 @@
+.navbar{
+    background-color: lightcyan;
+}
+
+.img-logo{
+    height: 80px;
+    width: 80px;
+    border-radius: 10%;
+    border: 2px solid #505050
+}
+
+.somosquem{
+    background-color: lightpink;
+}
+
+.margin{
+    padding-top: 50px;
+}
